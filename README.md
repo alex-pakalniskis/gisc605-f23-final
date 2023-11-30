@@ -4,3 +4,11 @@
     2. Click `Use this template` > `Create a new repository`
     3. Set the repository name to `gisc605-final`
     4. Make sure the repository visibility is set to `public`
+    5. Click `Create repository`
+1. Add a README.md file to your repository
+    1. Click `Add a README` button
+    2. Add your CSULB student email to the README.md file
+    3. Click `Commit changes...` > `Commit changes`
+1. Add a bash script to your repository
+1. Add a Python script to your repository
+1. Open an issue in your repository
