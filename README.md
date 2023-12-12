@@ -1,10 +1,12 @@
 # GISC 605 Final: Fall 2023
 ## Instructions
 1. Create a repository called `gisc605-final` in your GitHub account using `github/codespaces-blank` repository as a template
-2. Add a `README.md` file to your repository and modify it with your CSULB student email 
-3. Add a file called `final.sh` to your repository
-4. Add a file called `final.py` to your repository
-5. Add a file called `final.ipynb` to your repository
+2. Add a `README.md` file to your repository
+    1. Please modify this file by adding your CSULB student email
+4. Add a file called `final.sh` to your repository
+    1. Please write a bash script with a single function called `gisc605` that uses `echo` to output your CSULB username. 
+6. Add a file called `final.py` to your repository
+7. Add a file called `final.ipynb` to your repository
 
 ## Submission guidelines
 1. Login to Canvas
