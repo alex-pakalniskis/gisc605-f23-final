@@ -13,7 +13,7 @@ Please feel free to use your previous lab assignments to help you complete the f
 5. Use GitHub codespaces to add a file called `final_b.sh` to your repository
     1. Please write a bash script with list the contents of your `final_a.sh` script with `cat`. Make sure to commit your changes to your repo. 
 8. Add a file called `final.ipynb` to your repository
-    1. Use Google Collaboratory to create a Jupyter Notebook
+    1. Use [Google Collaboratory](https://colab.research.google.com/#create=true) or [this GitHub repo template and codespaces](https://github.com/github/codespaces-jupyter) to create a Jupyter Notebook
     2. Write a function called `howdy_planet` that uses `print()` to output "Howdy Planet!" 
     3. In another code cell in the same notebook instantiate a variable called `directions` and set it equal to a list of the four cardinal directions: `["North", "South", "East", "West"]`
     4. Write a `for loop` that uses `print()` to output the contents of `directions` 
