@@ -4,7 +4,7 @@
 Please feel free to use your previous lab assignments to help you complete the final. 
 
 ## Instructions
-1. Create a repository called `gisc605-final` in your GitHub account
+1. Create a repository called `gisc605-final` in your GitHub account (make sure it is public)
     1. Please use the [`github/codespaces-jupyter`](https://github.com/github/codespaces-jupyter) repository as a template repository
 3. Add a `README.md` file to your repository
     1. Please modify this file by adding your CSULB student email. Make sure to commit your changes to your repo. 
